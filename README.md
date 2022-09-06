@@ -1,5 +1,5 @@
 # PyMVC
-A python toolbox for minimum vetex cover problems
+A python toolbox for minimum vertex cover problems
 # this repository include 4 different algorithms for solving MVC
 
 1. Exact algorithm: branch and bound
